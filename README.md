@@ -2,9 +2,15 @@
 MSBA student at Brandeis University passionate about analytics, data science, and marketing. Seeking internship opportunities.
 
 ## Featured Projects
-- **Marketing Analytics Dashboard:** Tableau dashboard for campaign performance.
-- **SQL Database Design:** Entity-relationship diagrams and normalized tables from coursework.
-- **Machine Learning Model:** Python notebook for regression analysis on retail data.
+
+- **Beacon Retail Analytics – Retail Customer Analytics & SQL Database Design (BUS211A)**
+  Team project focused on addressing critical retail business problems in a competitive market. Developed Beacon Retail Analytics, a data-driven solution leveraging customer shopping behavior data to optimize customer segmentation, retention, promotional ROI, and inventory management. 
+  - Cleaned and prepared a Kaggle dataset (originally 1M+ rows, 78 variables) for business analysis—reduced to 3,900 rows, 17 fields.
+  - Designed and implemented a fully normalized SQL relational database (1NF, 2NF, 3NF) linking Customer, Product, Discount, Purchase, and Subscription tables.
+  - Enabled advanced analysis: segmented VIPs and loyalty segments, measured discount/promotion effectiveness, and provided actionable insights for inventory optimization.
+  - Demonstrated measurable improvements in retention and ROI through actionable customer intelligence.
+
+  *Tools: SQL, Excel | Focus: Data cleaning, database modeling, customer & business analytics*
 
 ## Resume & Certifications
 - [Download Resume](https://docs.google.com/document/d/1mwYNFRbvf_XTtRlNnA-bs_4gNOiW9vMV9AkdSeuUFWI/edit?usp=sharing)
@@ -19,4 +25,5 @@ This research investigates how big data analytics and advanced machine learning 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/sonalichawla667)
 - [sonalichawla@brandeis.edu](mailto:sonalichawla@brandeis.edu)
-- (+857 397-0331)
+- [sonnalichawla@gmail.com](mailto:sonnalichawla@gmail.com)
+- (+1 857 397-0331)
