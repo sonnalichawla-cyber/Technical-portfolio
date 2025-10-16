@@ -1,5 +1,5 @@
 # Technical Portfolio – Sonali Chawla
-MSBA student at Brandeis University passionate about analytics, data science, and marketing. Seeking internship opportunities.
+I am an MSBA graduate student at Brandeis University driven by a passion for business analytics, marketing analytics, and finance. My experience spans hands-on work in SQL, Python, Data Visualization (Tableau, Power BI), and R, with a strong STEM foundation and an eagerness to bridge technical analysis with impactful business strategies.
 
 ## Featured Projects
 
